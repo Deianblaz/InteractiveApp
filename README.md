@@ -9,3 +9,8 @@ Puedes descargar la ultima version desde este enlace: [Interactive v1.1.4](https
   - Mejora Exportar/Importar archivos.
   - Mejora actualizacion de Lista de Regalos.
   - Cambios en los parametros Repetir Gift Combo.
+
+- `Version 1.1.4` 
+  - Mejora visual de componentes.
+  - Añadido Mini-Juegos.
+  - Mejora descarga de audios.
